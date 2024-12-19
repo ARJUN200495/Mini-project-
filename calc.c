@@ -1,4 +1,4 @@
-// Programmed by - Navvy
+// Programmed by - Arjun
 
 #include <stdio.h>  
 int main()  
